@@ -1,9 +1,9 @@
-#include <stdio.h>\
+#include <stdio.h>
 
 int main() {
 
 int age = 5;
-printf("%s" age);
+printf("%d", age);
 
     return(0);
 }
